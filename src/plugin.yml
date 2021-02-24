@@ -1,0 +1,9 @@
+version: 0.9
+name: Uptime
+main: com.ventura11.plugin.Main
+description: Uptime
+author: boys4Code-Ventura11
+commands:
+  uptime:
+    description: Teszt
+    aliases: []
